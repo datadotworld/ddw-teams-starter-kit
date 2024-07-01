@@ -1,0 +1,4 @@
+.vscode/
+types/*.d.ts
+lib/
+package-lock.json
